@@ -1,0 +1,7 @@
+nav {
+  float: right;
+}
+
+header.clear-fix {
+  overflow: auto;
+}
